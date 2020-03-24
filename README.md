@@ -14,14 +14,18 @@ channels:
   - conda-forge
   - defaults
 ```
-### Step 2: <br>
+### Step 3: <br>
 Install git by running `conda install git` </br> </br>
 
-### Step 3: </br>
+### Step 4: </br>
 Clone BEAR into your your local directory by running `git clone https://github.com/sej917/BEAR.git` </br>
 BEAR (Better emulation for artificial reads) is a tool developed by Stephen Johnson, Brett Trost, Dr. Jeffrey R. Long, and Dr. Anthony Kusalik of the University of Saskatchewan, Department of Computer Science. </br> </br>
 
-### Step 4: </br>
+### Step 5: </br>
 Install Kraken 2 in a coda environment called *kraken2* by running `conda create -n kraken2 kraken2` </br> </br>
 
-### Step 5:
+### Step 6:
+Install ncbi-acc-download by running `conda create -n ncbi-acc-download ncbi-acc-download` </br>
+
+### Step 7:
+Fetch your genomes of interest by running `ncbi-acc-download --format fasta --out myGenomes.fna "$(< refSeqIds.csv)"`
