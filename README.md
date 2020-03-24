@@ -39,5 +39,12 @@ Note: This tutorial analysis uses a .csv formatted list of refSeqIds that consti
 
 ### Step 10: </br>
 BEAR requires python 2.7. Create a conda environment called python2.7 by running `conda create -n python2.7 python=2.7` </br>
-Run c`conda activate python2.7` </br>
-Run BEAR via the command `python BEAR_release/scripts/generate_reads2.py -r myGenomes.fna -a coreMedianAbundance.txt -o 10Million-2.fna -t 10000000 -l 200`
+Run `conda activate python2.7` </br>
+Run BEAR via the command `python BEAR_release/scripts/generate_reads2.py -r myGenomes.fna -a coreMedianAbundance.txt -o 10MillionReads.fna -t 10000000 -l 200` </br>
+A detailed detailed documentation of BEAR can be found at https://github.com/sej917/BEAR/blob/master/docs/bear_user_manual.pdf </br>
+In brief we are supplying the following: </br>
+The `-r` argument contains the multi-fasta file with all of our genomes of interest that we generated in step 9. </br>
+The `-a` argument supplies a tab-delimited file with relative abundance values for each genome. </br>
+The `-o` argument specifies an output file that will contain our in-silico reads. </br>
+The `-t` argument specifies the number of reads we want to generate (in this case ten million) </br>
+The `-l` argument specifies the length of each read (in this case two hundred base pairs) </br>
