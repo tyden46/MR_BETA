@@ -8,7 +8,8 @@ Install miniconda in your local directory: https://docs.conda.io/en/latest/minic
 Miniconda will allow you to seemlessly install other packages you will need. It will also help manage dependencies. </br> </br>
 ### Step 2: </br>
 Make sure that `bioconda` is included in your list of channels. To do so, open the file `.condarc` in a text editor of your choice (ie. nano, vim) and add `- bioconda` in your list of channels. Your .condarc should look something like this:
-```channels:
+```
+channels:
   - bioconda
   - conda-forge
   - defaults
