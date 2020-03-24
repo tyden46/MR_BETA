@@ -6,8 +6,14 @@ The following steps have been designed to run on Pegasus, a high performace comp
 ### Step 1: </br>
 Install miniconda in your local directory: https://docs.conda.io/en/latest/miniconda.html </br>
 Miniconda will allow you to seemlessly install other packages you will need. It will also help manage dependencies. </br> </br>
-### Step 4: <br>
+### Step 2: <br>
 Install git by running `conda install git` </br> </br>
 
-### Step 2: </br>
-Clone BEAR into your your local directory: https://github.com/sej917/BEAR
+### Step 3: </br>
+Clone BEAR into your your local directory by running `git clone https://github.com/sej917/BEAR.git` </br>
+BEAR (Better emulation for artificial reads) is a tool developed by Stephen Johnson, Brett Trost, Dr. Jeffrey R. Long, and Dr. Anthony Kusalik of the University of Saskatchewan, Department of Computer Science. </br> </br>
+
+### Step 4: </br>
+Install Kraken 2 in a coda environment called *kraken2* by running `conda create -n kraken2 kraken2` </br> </br>
+
+### Step 5:
