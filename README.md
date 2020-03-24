@@ -21,7 +21,9 @@ Install git by running `conda install git` </br> </br>
 Clone this repository by running `git clone https://github.com/tyden46/MR_BETA.git` </br> </br>
 
 ### Step 5: </br>
-Clone BEAR into your your local directory by running `git clone https://github.com/sej917/BEAR.git` </br>
+Download BEAR by running `wget http://homepage.usask.ca/~sej917/BEAR_release.zip` </br>
+unzip `BEAR_release.zip` by running `unzip BEAR_release.zip`
+BEAR requires python2.7 and biopython. Create a conda environment called *BEAR* by running `conda create -n BEAR python=2.7 biopython` </br>
 BEAR (Better emulation for artificial reads) is a tool developed by Stephen Johnson, Brett Trost, Dr. Jeffrey R. Long, and Dr. Anthony Kusalik of the University of Saskatchewan, Department of Computer Science. </br> </br>
 
 ### Step 6: </br>
@@ -38,9 +40,10 @@ Fetch your genomes of interest by running `ncbi-acc-download --format fasta --ou
 Note: This tutorial analysis uses a .csv formatted list of refSeqIds that constitute a "core" microbiome of eight healthy patients. In your own analysis, feel free to swap `refSeqIds.csv` for your own .csv formatted list of RefSeq IDs.
 
 ### Step 10: </br>
-BEAR requires python 2.7. Create a conda environment called python2.7 by running `conda create -n python2.7 python=2.7` </br>
+
 Run `conda activate python2.7` </br>
-Run BEAR via the command `python BEAR_release/scripts/generate_reads2.py -r myGenomes.fna -a coreMedianAbundance.txt -o 10MillionReads.fna -t 10000000 -l 200` </br>
+install bio using
+Run BEAR via the command `python BEAR/scripts/generate_reads2.py -r myGenomes.fna -a coreMedianAbundance.txt -o 10MillionReads.fna -t 10000000 -l 200` </br>
 A detailed detailed documentation of BEAR can be found at https://github.com/sej917/BEAR/blob/master/docs/bear_user_manual.pdf </br>
 In brief we are supplying the following: </br>
 The `-r` argument contains the multi-fasta file with all of our genomes of interest that we generated in step 9. </br>
