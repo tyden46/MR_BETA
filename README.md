@@ -18,6 +18,9 @@ channels:
 Install git by running `conda install git` </br> </br>
 
 ### Step 4: </br>
+Clone this repository by running `git clone https://github.com/tyden46/MR_BETA.git` </br>
+
+### Step 4: </br>
 Clone BEAR into your your local directory by running `git clone https://github.com/sej917/BEAR.git` </br>
 BEAR (Better emulation for artificial reads) is a tool developed by Stephen Johnson, Brett Trost, Dr. Jeffrey R. Long, and Dr. Anthony Kusalik of the University of Saskatchewan, Department of Computer Science. </br> </br>
 
