@@ -6,6 +6,12 @@ The following steps have been designed to run on Pegasus, a high performace comp
 ### Step 1: </br>
 Install miniconda in your local directory: https://docs.conda.io/en/latest/miniconda.html </br>
 Miniconda will allow you to seemlessly install other packages you will need. It will also help manage dependencies. </br> </br>
+### Step 2: </br>
+Make sure that `bioconda` is included in your list of channels. To do so, open the file `.condarc` in a text editor of your choice (ie. nano, vim) and add `- bioconda` in your list of channels. Your .condarc should look something like this:
+`channels:
+  - bioconda
+  - conda-forge
+  - defaults`
 ### Step 2: <br>
 Install git by running `conda install git` </br> </br>
 
