@@ -2,7 +2,7 @@
 Scripts associated with the tool MR BETA: Metagenomic Reassignment based on Bias Estimation of Taxonomic Abundance
 </br> </br>
 ## Tutorial </br>
-The following steps have been designed to run on Pegasus, a high performace computing environment available at The George Washington University. Similar steps can likely be followed on most high performance computing environments that use bash. </br> </br>
+The following steps have been designed to run on Pegasus (a high performace computing environment available at The George Washington University) and on a local machine that has RStudio installed. Similar steps can likely be followed on most high performance computing environments that use bash. </br> </br>
 ### Step 1: </br>
 Install miniconda in your local directory: https://docs.conda.io/en/latest/miniconda.html </br>
 Miniconda will allow you to seemlessly install other packages you will need. It will also help manage dependencies. </br> </br>
@@ -28,7 +28,8 @@ BEAR (Better emulation for artificial reads) is a tool developed by Stephen John
 
 ### Step 6: </br>
 Install Kraken 2 in a coda environment called *kraken2* by running `conda create -n kraken2 kraken2` </br> </br>
-
+Download the miniKraken2_v1_8GB database by running `ftpget ftp://ftp.ccb.jhu.edu/pub/data/kraken2_dbs/minikraken2_v1_8GB_201904_UPDATE.tgz`
+Extract the file by running `tar -xvzf minikraken2_v1_8GB_201904_UPDATE.tgz`
 ### Step 7: </br>
 Install ncbi-acc-download by running `conda create -n ncbi-acc-download ncbi-acc-download` </br>
 
@@ -43,11 +44,29 @@ Note: This tutorial analysis uses a .csv formatted list of refSeqIds that consti
 
 Run `conda activate python2.7` </br>
 install bio using
-Run BEAR via the command `python BEAR/scripts/generate_reads2.py -r myGenomes.fna -a coreMedianAbundance.txt -o 10MillionReads.fna -t 10000000 -l 200` </br>
+Run BEAR via the command `python BEAR_release/scripts/generate_reads2.py -r myGenomes.fna -a coreMedianAbundance.txt -o 10MillionReads.fna -t 10000000 -l 200` </br>
 A detailed detailed documentation of BEAR can be found at https://github.com/sej917/BEAR/blob/master/docs/bear_user_manual.pdf </br>
 In brief we are supplying the following: </br>
 The `-r` argument contains the multi-fasta file with all of our genomes of interest that we generated in step 9. </br>
 The `-a` argument supplies a tab-delimited file with relative abundance values for each genome. </br>
 The `-o` argument specifies an output file that will contain our in-silico reads. </br>
 The `-t` argument specifies the number of reads we want to generate (in this case ten million) </br>
-The `-l` argument specifies the length of each read (in this case two hundred base pairs) </br>
+The `-l` argument specifies the length of each read (in this case two hundred base pairs) </br></br>
+
+### Step 11: </br>
+Once BEAR has generated the in-silico reads we should parse the output to establish a "true abundance" profile. </br>
+A helper script `parseAbundance.sh` has been included to perform this step on our sample data. Run this script with the command `parseAbundance.sh > trueAundance.txt` </br>
+The file `trueAbundance.txt` is a tab-delimited file. The first column contains RefSeq Ids and the second column contains abundance values that should sum to 1. </br></br>
+
+### Step 12:
+The in-silico reads that we have now generated can be used as an input for any whole-shotgun metagenomics (WSM) pipeline that performs taxonomic profiling. As it stands, MR BETA v1.0 is designed to run on a Kraken2 output but the scripts can (in theory) be tailored to parse the output of any WSM tool. </br>
+To run Kraken 2 on our reads first run the command: </br>
+`conda activate kraken2` </br>
+Then run:
+`kraken2 --threads 16 --db minikraken2_v1_8GB_201904_UPDATE --report krakenReport.txt 10MillionReads.fna` </br>
+The `krakenReport.txt` file contains a tab-delimited report of Kraken 2's taxonomic profile estimation. </br> </br>
+
+### Step 13:
+We will now use an R script to parse the output of `krakenReport.txt` and generate a bias profile. </br>
+Copy `krakenReport.txt` from Pegasus (or your HPC environment) to your local machine. </br>
+Open RStudio and run BiasProfileGeneration.R
