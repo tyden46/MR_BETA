@@ -69,4 +69,19 @@ The `krakenReport.txt` file contains a tab-delimited report of Kraken 2's taxono
 ### Step 13:
 We will now use an R script to parse the output of `krakenReport.txt` and generate a bias profile. </br>
 Copy `krakenReport.txt` from Pegasus (or your HPC environment) to your local machine. </br>
-Open RStudio and run BiasProfileGeneration.R
+Open RStudio and run BiasProfileGeneration.R  </br>
+NOTE: You will have to set your working directory in line 9. You may also need to change lines 113-123 which are hard-coded to fix species names used in this tutorial.</br> </br>
+
+### OUTPUT: <br>
+Three .csv files: </br>
+1. `overestimatedSpecies.csv` - A list of species that were overestimated or misattributed </br>
+2. `underestimatedSpecies.csv` - A list of species that were underestimated or unattributed </br>
+3. `AdjustedOutput.csv` - A list of species and adjusted abundance values following MR BETA's correction algorithm
+</br> </br>
+Five figures, a bar chart of each of the following: </br>
+1. `Overestimated.png` - Overestimated species </br>
+2. `Underestimated.png` - Underestimated species </br>
+3. `Misattributed.png` - Misattributed species </br>
+4. `Underestimated.png` - Unattributed species </br>
+5. `correction.png` - Results of correction algorithm </br>
+One 
