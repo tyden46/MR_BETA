@@ -42,8 +42,7 @@ Note: This tutorial analysis uses a .csv formatted list of refSeqIds that consti
 
 ### Step 10: </br>
 
-Run `conda activate python2.7` </br>
-install bio using
+Run `conda activate BEAR` </br>
 Run BEAR via the command `python BEAR_release/scripts/generate_reads2.py -r myGenomes.fna -a coreMedianAbundance.txt -o 10MillionReads.fna -t 10000000 -l 200` </br>
 A detailed detailed documentation of BEAR can be found at https://github.com/sej917/BEAR/blob/master/docs/bear_user_manual.pdf </br>
 In brief we are supplying the following: </br>
