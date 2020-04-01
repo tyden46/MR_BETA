@@ -54,7 +54,7 @@ The `-l` argument specifies the length of each read (in this case two hundred ba
 
 ### Step 11: </br>
 Once BEAR has generated the in-silico reads we should parse the output to establish a "true abundance" profile. </br>
-A helper script `parseAbundance.sh` has been included to perform this step on our sample data. Run this script with the command `parseAbundance.sh > trueAundance.txt` </br>
+A helper script `parseAbundance.sh` has been included to perform this step on our sample data. Run this script with the command `parseAbundance.sh 10MillionReads.fna > trueAundance.txt` </br>
 The file `trueAbundance.txt` is a tab-delimited file. The first column contains RefSeq Ids and the second column contains abundance values that should sum to 1. </br></br>
 
 ### Step 12:
