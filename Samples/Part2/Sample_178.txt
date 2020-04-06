@@ -1,0 +1,253 @@
+>NC_000907.1 Haemophilus influenzae Rd KW20, complete sequence	9.11544195556276e-06
+>NC_007519.1 Desulfovibrio alaskensis G20, complete sequence	9.85446924070614e-08
+>NC_013203.1 Atopobium parvulum DSM 20469, complete genome	1.87291658381761e-06
+>NC_013740.1 Acidaminococcus fermentans DSM 20731, complete genome	1.72278528401539e-07
+>NC_014933.1 Bacteroides helcogenes P 36-108, complete genome	0.000167580381302713
+>NC_015164.1 Bacteroides salanitronis DSM 18170, complete genome	0.000430398438569762
+>NC_015385.1 Treponema succinifaciens DSM 2489, complete genome	0
+>NC_015501.1 Porphyromonas asaccharolytica DSM 20707, complete genome	2.73020151713792e-05
+>NC_015875.1 Streptococcus pseudopneumoniae IS7493, complete sequence	1.35192118773185e-06
+>NC_019968.1 Prevotella dentalis DSM 3688 chromosome 2, complete sequence	1.25661017163367e-07
+>NC_022238.1 Streptococcus constellatus subsp. pharyngis C1050, complete sequence	6.07950771918493e-06
+>NZ_AAXA02000015.1 Dorea formicigenerans ATCC 27755 D_formicigenerans-3.0.1_Cont399, whole genome shotgun sequence	0.00148454842197151
+>NZ_AAYN02000002.1 Ureaplasma urealyticum serovar 8 str. ATCC 27618 gcontig_1118436613429, whole genome shotgun sequence	0
+>NZ_ABJL02000008.1 Bacteroides intestinalis DSM 17393 B_intestinalis-2.0.1_Cont607, whole genome shotgun sequence	0.000511487391576934
+>NZ_ACGK02000001.1 Atopobium vaginae DSM 15829 Contig27.fasta, whole genome shotgun sequence	6.08707203762299e-07
+>NZ_ACRY02000001.1 Gemella sanguinis M325 acqcz-supercont2.1, whole genome shotgun sequence	4.67908366877241e-05
+>NZ_ACVO01000015.1 Rothia mucilaginosa ATCC 25296 contig00009, whole genome shotgun sequence	6.21847724980077e-07
+>NZ_ADFU01000017.1 Veillonella parvula ATCC 17745 contig00023, whole genome shotgun sequence	0.00022130648177966
+>NZ_AEKO01000007.1 Streptococcus vestibularis F0396 ctg1126932565723, whole genome shotgun sequence	0.000717798558220657
+>NZ_AEUY02000005.1 Streptococcus pseudoporcinus LQ 940-04 Contig1216510750, whole genome shotgun sequence	0
+>NZ_AEUZ02000001.1 Streptococcus urinalis 2285-97 final_molecule, whole genome shotgun sequence	3.7825235469377e-07
+>NZ_AFII01000002.1 Parvimonas sp. oral taxon 110 str. F0139 Contig496, whole genome shotgun sequence	0
+>NZ_AFOJ01000002.1 Lactobacillus ruminis SPM0211 83_2, whole genome shotgun sequence	0.00364010631902435
+>NZ_AFUS01000005.1 Parvimonas sp. oral taxon 393 str. F0440 Contig466, whole genome shotgun sequence	1.51607219087787e-07
+>NZ_AHGR01000004.1 Aggregatibacter actinomycetemcomitans RhAA1 scaffold06, whole genome shotgun sequence	0
+>NZ_AKBW01000001.1 Streptococcus pneumoniae TIGR4 chromosome, whole genome shotgun sequence	0.000206895018304658
+>NZ_AKBZ01000007.1 Bacteroides finegoldii CL09T03C10 cont1.7, whole genome shotgun sequence	0.00421596651319322
+>NZ_ALIF01000006.1 Streptococcus salivarius K12 Contig0006, whole genome shotgun sequence	0.00717283895907562
+>NZ_ANIC01000004.1 Enterobacter cancerogenus YZ1 contig004, whole genome shotgun sequence	0
+>NZ_ANNI01000003.1 Campylobacter concisus ATCC 51562 Contig_3, whole genome shotgun sequence	0
+>NZ_AP017929.1 Lactobacillus sakei subsp. sakei DSM 20017 = JCM 1157 strain LT-13	0
+>NZ_AQWJ01000003.1 Dysgonomonas mossii DSM 22836 B049DRAFT_scaffold_2.3_C, whole genome shotgun sequence	0
+>NZ_ASVX01000002.1 Enterococcus casseliflavus ATCC 49996 acOtq-supercont2.2, whole genome shotgun sequence	4.31119327293628e-07
+>NZ_AUFU01000001.1 Selenomonas artemidis DSM 19719 K341DRAFT_scaffold00001.1_C, whole genome shotgun sequence	1.77120003305388e-07
+>NZ_AUKF01000001.1 Prevotella bryantii C21a G638DRAFT_scaffold00001.1_C, whole genome shotgun sequence	2.13604905862475e-06
+>NZ_AWUG01000001.1 Bifidobacterium breve 2L Contig1, whole genome shotgun sequence	4.64332960139729e-05
+>NZ_AXSX01000004.1 Streptococcus mutans PKUSS-LG01 PLG01_scaffold49, whole genome shotgun sequence	0.000190198329819333
+>NZ_BALN01000001.1 Shewanella putrefaciens JCM 20190 = NBRC 3908 strain JCM 20190, whole genome shotgun sequence	0
+>NZ_BCZP01000001.1 Delftia acidovorans NBRC 14950, whole genome shotgun sequence	0
+>NZ_CAABOX010000001.1 Methanobrevibacter smithii strain C2 CSUR P5816, whole genome shotgun sequence	0.0349622179524
+>NZ_CAABZZ010000001.1 Neisseria flavescens strain N13, whole genome shotgun sequence	0
+>NZ_CAACYI010000001.1 Anaerococcus prevotii strain 3012STDY7089603, whole genome shotgun sequence	0
+>NZ_CAADIR010000002.1 Citrobacter koseri strain NCTC10849, whole genome shotgun sequence	5.66745770641818e-06
+>NZ_CAADJV010000005.1 Klebsiella pneumoniae strain NCTC9660, whole genome shotgun sequence	1.3834877383392e-05
+>NZ_CABJAL010000001.1 Peptoniphilus harei isolate MGYG-HGUT-00120, whole genome shotgun sequence	2.81523736956002e-06
+>NZ_CABJCF010000002.1 Solobacterium moorei isolate MGYG-HGUT-00173, whole genome shotgun sequence	1.40101268899493e-06
+>NZ_CABJDW010000001.1 Eubacterium limosum isolate MGYG-HGUT-00219, whole genome shotgun sequence	3.39030336042396e-05
+>NZ_CABJFF010000001.1 Odoribacter splanchnicus isolate MGYG-HGUT-00254, whole genome shotgun sequence	0.0106654759930643
+>NZ_CABKNW010000005.1 Fusobacterium ulcerans isolate MGYG-HGUT-01327, whole genome shotgun sequence	0
+>NZ_CABKOB010000028.1 Fusobacterium gonidiaformans isolate MGYG-HGUT-01325, whole genome shotgun sequence	0
+>NZ_CABKSO010000001.1 Veillonella atypica isolate MGYG-HGUT-01444, whole genome shotgun sequence	3.60932036221411e-05
+>NZ_CABMMM010000002.1 Campylobacter hominis isolate MGYG-HGUT-02479, whole genome shotgun sequence	5.23970028296129e-06
+>NZ_CABMMP010000001.1 Fusobacterium varium isolate MGYG-HGUT-02486, whole genome shotgun sequence	0
+>NZ_CABMMQ010000002.1 Fusobacterium mortiferum isolate MGYG-HGUT-02485, whole genome shotgun sequence	5.00628116506463e-08
+>NZ_CABWIG010000011.1 Collinsella aerofaciens isolate Collinsella_aerofaciens_LVB_257B, whole genome shotgun sequence	0.00488490719471435
+>NZ_CABY01000005.1 Streptococcus equi subsp. zooepidemicus BHS5, whole genome shotgun sequence	9.08907357152509e-08
+>NZ_CBUQ010000007.1 Bifidobacterium animalis subsp. animalis IM386, whole genome shotgun sequence	1.40933133617541e-05
+>NZ_CH991859.1 Escherichia albertii TW07627 scf_1109867046288, whole genome shotgun sequence	4.40557847755487e-07
+>NZ_CM001148.1 Parascardovia denticolens DSM 10105 = JCM 12538 strain DSM 10105 chromosome, whole genome shotgun sequence	0
+>NZ_CM001167.1 Bacteroides coprosuis DSM 18011 chromosome, whole genome shotgun sequence	2.23893792538365e-06
+>NZ_CM003135.1 Streptococcus thermophilus TH1477 chromosome, whole genome shotgun sequence	0.00164675743191396
+>NZ_CP008921.1 Streptococcus suis 6407 chromosome, complete genome	0.000107766707320634
+>NZ_CP017697.1 Lactobacillus coryniformis subsp. torquens DSM 20004 = KCTC 3535, complete genome	0
+>NZ_CP017706.1 Lactobacillus amylovorus DSM 20531, complete genome	5.54313894789721e-07
+>NZ_CP018201.1 Aeromonas hydrophila strain MX16A chromosome, complete genome	0
+>NZ_CP019645.1 Helicobacter bilis strain AAQJH, complete genome	0
+>NZ_CP020620.1 Lactobacillus acidophilus strain DSM 20079 chromosome, complete genome	8.10190028444036e-09
+>NZ_CP025286.1 Ethanoligenens harbinense YUAN-3 chromosome, complete genome	1.94367674261928e-06
+>NZ_CP026503.1 Lactobacillus crispatus strain AB70 chromosome, complete genome	0
+>NZ_CP026704.1 Providencia stuartii strain AR_0026 chromosome, complete genome	0
+>NZ_CP031243.1 Haemophilus haemolyticus strain M19346 chromosome, complete genome	6.21201741618422e-06
+>NZ_CP031251.1 Neisseria subflava strain M18660 chromosome, complete genome	3.40427119224395e-07
+>NZ_CP035904.1 Lactobacillus fermentum strain MTCC 5898 chromosome	1.61465768555892e-07
+>NZ_CP049052.1 Lactobacillus delbrueckii subsp. bulgaricus strain LJJ chromosome, complete genome	6.5598466586385e-06
+>NZ_CYUA01000005.1 Achromobacter xylosoxidans strain 2789STDY5663447, whole genome shotgun sequence	0
+>NZ_CYXL01000003.1 Blautia hydrogenotrophica strain 2789STDY5608857, whole genome shotgun sequence	0.000672569622722153
+>NZ_CYXU01000002.1 Coprococcus eutactus strain 2789STDY5834963, whole genome shotgun sequence	0.00175839780595775
+>NZ_CZAG01000003.1 Parabacteroides merdae strain 2789STDY5834848, whole genome shotgun sequence	0.0550161848423531
+>NZ_DS362249.1 Bacteroides uniformis ATCC 8492 Scfld_3.0.1_32, whole genome shotgun sequence	0.276614219462257
+>NZ_DS483518.1 Parvimonas micra ATCC 33270 Scfld_02_14, whole genome shotgun sequence	3.54049928512117e-06
+>NZ_DS499566.1 Intestinibacter bartlettii DSM 16795 Scfld_02_14, whole genome shotgun sequence	0.000157645742984388
+>NZ_DS499579.1 Alistipes putredinis DSM 17216 Scfld_02_9, whole genome shotgun sequence	0.0429573519934772
+>NZ_DS499733.1 Anaerostipes caccae DSM 14662 Scfld_03_14, whole genome shotgun sequence	5.86534682987799e-06
+>NZ_DS560019.1 Anaerofustis stercorihominis DSM 17244 Scfld_02_4, whole genome shotgun sequence	4.3751812079514e-07
+>NZ_DS990134.1 Bacteroides plebeius DSM 17135 Scfld_02_17, whole genome shotgun sequence	0.00184153467923804
+>NZ_DS995476.1 Collinsella stercoris DSM 13279 Scfld3, whole genome shotgun sequence	0.000693157501504911
+>NZ_DS995511.1 Bacteroides eggerthii DSM 20697 Scfld3, whole genome shotgun sequence	0.00817835124868037
+>NZ_DS996359.1 Desulfovibrio piger ATCC 29098 Scfld8, whole genome shotgun sequence	4.17530747038787e-07
+>NZ_EQ973643.1 Bacteroides coprophilus DSM 18228 = JCM 13818 strain DSM 18228 Scfld15, whole genome shotgun sequence	0.001991176803085
+>NZ_FQVS01000001.1 Prevotella oralis strain DSM 20702, whole genome shotgun sequence	2.92195192086934e-07
+>NZ_GG657561.1 Holdemania filiformis DSM 12042 Scfld10, whole genome shotgun sequence	0.00061109906424162
+>NZ_GG661974.1 Helicobacter winghamensis ATCC BAA-430 supercont1.2, whole genome shotgun sequence	0
+>NZ_GG662014.1 Coprococcus comes ATCC 27758 Scfld9, whole genome shotgun sequence	0.00256583511280201
+>NZ_GG663524.1 Butyrivibrio crossotus DSM 2876 Scfld20, whole genome shotgun sequence	0.000151191233175458
+>NZ_GG665867.1 Shuttleworthia satelles DSM 14600 Scfld1, whole genome shotgun sequence	3.60067145333494e-07
+>NZ_GG666044.1 Anaerococcus lactolyticus ATCC 51172 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GG666296.1 Anaerococcus tetradius ATCC 35098 SCAFFOLD2, whole genome shotgun sequence	0
+>NZ_GG667605.1 Veillonella dispar ATCC 17748 Scfld1, whole genome shotgun sequence	0.000149090231921138
+>NZ_GG668533.1 Oribacterium sinus F0268 SCAFFOLD1, whole genome shotgun sequence	2.25512700329956e-06
+>NZ_GG692710.1 Collinsella intestinalis DSM 13280 Scfld_02_0, whole genome shotgun sequence	0.000190745702806237
+>NZ_GG693253.1 Lactobacillus ultunensis DSM 16047 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GG693412.1 Lactobacillus vaginalis DSM 5837 = ATCC 49540 SCAFFOLD1, whole genome shotgun sequence	1.12792117815311e-07
+>NZ_GG694015.1 Granulicatella adiacens ATCC 49175 SCAFFOLD1, whole genome shotgun sequence	2.69049130720733e-05
+>NZ_GG697142.2 Mitsuokella multacida DSM 20544 Scfld1, whole genome shotgun sequence	0
+>NZ_GG698591.1 Blautia hansenii DSM 20583 Scfld3, whole genome shotgun sequence	9.67962048398489e-05
+>NZ_GG698602.1 Dialister invisus DSM 15470 Scfld0, whole genome shotgun sequence	0.0333836401367481
+>NZ_GG698802.1 Lactobacillus coleohominis 101-4-CHN supercont1.1, whole genome shotgun sequence	2.48982600496565e-08
+>NZ_GG700527.1 Anaerococcus vaginalis ATCC 51170 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GG700733.1 Lactobacillus antri DSM 16041 SCAFFOLD2, whole genome shotgun sequence	1.05188154816526e-07
+>NZ_GG700752.1 Lactobacillus helveticus DSM 20075 = CGMCC 1.1877 strain DSM 20075 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GG703852.1 Prevotella copri DSM 18205 Scfld0, whole genome shotgun sequence	0.000357645680905305
+>NZ_GG703884.1 Prevotella oris F0302 Scfld1, whole genome shotgun sequence	2.7997295444713e-05
+>NZ_GG704769.1 Subdoligranulum variabile DSM 15176 Scfld0, whole genome shotgun sequence	0.000364205916277202
+>NZ_GG704781.1 Prevotella bergensis DSM 17361 SCAFFOLD2, whole genome shotgun sequence	6.85365166435848e-06
+>NZ_GG730300.1 Citrobacter youngae ATCC 29220 Scfld1, whole genome shotgun sequence	2.06521227074525e-07
+>NZ_GG740010.1 Prevotella melaninogenica D18 supercont1.1, whole genome shotgun sequence	2.53127234884915e-06
+>NZ_GG753567.1 Serratia odorifera DSM 4582 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GG770226.1 Scardovia inopinata F0304 supercont1.2, whole genome shotgun sequence	0
+>NZ_GL397071.1 Peptoniphilus duerdenii ATCC BAA-1640 SCAFFOLD1, whole genome shotgun sequence	6.70881349228982e-07
+>NZ_GL397214.1 Prevotella marshii DSM 16973 = JCM 13450 strain DSM 16973 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GL538208.1 Megasphaera micronuciformis F0359 Scfld98, whole genome shotgun sequence	1.64742800670183e-06
+>NZ_GL545251.1 Lactobacillus jensenii 1153 supercont2.1, whole genome shotgun sequence	0
+>NZ_GL575019.1 Lactobacillus farciminis KCTC 3681 = DSM 20184 strain KCTC 3681 scaffold00004, whole genome shotgun sequence	0
+>NZ_GL586311.1 Prevotella buccae ATCC 33574 SCAFFOLD1, whole genome shotgun sequence	1.35317320287824e-05
+>NZ_GL622241.1 Enterococcus italicus DSM 15952 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GL622340.1 Mobiluncus curtisii ATCC 51333 SCAFFOLD1, whole genome shotgun sequence	2.17599481455373e-05
+>NZ_GL622607.1 Gemella morbillorum M424 supercont1.1, whole genome shotgun sequence	2.47993265660155e-07
+>NZ_GL629647.1 Prevotella salivae DSM 15606 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GL732439.1 Streptococcus infantis ATCC 700779 SCAFFOLD1, whole genome shotgun sequence	0.000141004898385705
+>NZ_GL732463.1 Streptococcus peroris ATCC 700780 SCAFFOLD1, whole genome shotgun sequence	7.8237471971516e-06
+>NZ_GL870929.1 Kingella denitrificans ATCC 33394 SCAFFOLD1, whole genome shotgun sequence	1.87234915573417e-07
+>NZ_GL872283.1 Prevotella multiformis DSM 16608 SCAFFOLD2, whole genome shotgun sequence	2.2137336694516e-06
+>NZ_GL878519.1 Dialister micraerophilus DSM 19965 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GL882599.1 Bacteroides clarus YIT 12056 Scfld52, whole genome shotgun sequence	0.00169540460839311
+>NZ_GL890583.1 Lachnospiraceae oral taxon 107 str. F0167 supercont1.1, whole genome shotgun sequence	3.0852820351321e-05
+>NZ_GL891980.1 Dysgonomonas gadei ATCC BAA-286 supercont1.2, whole genome shotgun sequence	0
+>NZ_GL892076.1 Centipeda periodontii DSM 2778 SCAFFOLD1, whole genome shotgun sequence	0
+>NZ_GL945017.1 Prevotella multisaccharivorax DSM 17128 scaffold_3, whole genome shotgun sequence	3.60067145333494e-07
+>NZ_GL945045.1 Bacteroides fragilis strain 2_1_56FAA supercont1.3, whole genome shotgun sequence	0.00420943462626021
+>NZ_GL982465.1 Prevotella nigrescens ATCC 33563 SCAFFOLD2, whole genome shotgun sequence	1.50529889000633e-05
+>NZ_GL982514.1 Prevotella pallens ATCC 700821 SCAFFOLD2, whole genome shotgun sequence	6.32550390450731e-08
+>NZ_GL982563.1 Streptococcus sanguinis SK340 strain CCUG 59323 SCAFFOLD1, whole genome shotgun sequence	7.49053905293972e-05
+>NZ_HG417090.1 Prevotella timonensis 4401737 = DSM 22865 = JCM 15640, whole genome shotgun sequence	3.3573337303822e-05
+>NZ_JAAAEU010000001.1 Streptococcus agalactiae strain iGBS464 NODE_1_length_549650_cov_84.4953, whole genome shotgun sequence	0
+>NZ_JAAKGD010000007.1 Burkholderia multivorans strain C1576 6908_299, whole genome shotgun sequence	9.26967803263419e-07
+>NZ_JAANOT010000003.1 Enterobacter asburiae strain 609 Ga0365417_03, whole genome shotgun sequence	5.95241979175257e-07
+>NZ_JAAOMV010000001.1 Proteus mirabilis strain XH1566 contig00001, whole genome shotgun sequence	1.02730494815737e-06
+>NZ_JAAPAT010000002.1 Clostridioides difficile strain CD507A NODE_2_length_562155_cov_182.656147, whole genome shotgun sequence	0.000428411947174828
+>NZ_JAAQOA010000001.1 Providencia rettgeri strain 715m/4 NODE_1_length_514352_cov_26.266965, whole genome shotgun sequence	7.53256029613689e-07
+>NZ_JAAQVX010000001.1 Enterococcus faecalis strain E.fA105, whole genome shotgun sequence	8.55971601184243e-05
+>NZ_JAAQWA010000001.1 Acinetobacter baumannii strain A.bA112, whole genome shotgun sequence	0
+>NZ_JAATGY010000001.1 Salmonella enterica subsp. enterica serovar Typhimurium strain HS5344 NODE_1_514520_301625, whole genome shotgun sequence	1.36386662458903e-05
+>NZ_JEOB01000004.1 Ruminococcus albus SY3 scaffold00004, whole genome shotgun sequence	8.70374988076765e-05
+>NZ_JH376858.1 Selenomonas noxia F0398 supercont1.2, whole genome shotgun sequence	0
+>NZ_JH660660.1 Prevotella bivia DSM 20514 Prebiscaffold_3, whole genome shotgun sequence	9.50656508098108e-06
+>NZ_JH724296.1 Bacteroides xylanisolvens CL03T12C04 supercont1.3, whole genome shotgun sequence	0.011892311477595
+>NZ_JOVP01000029.1 Aeromonas caviae strain YL12 Contig122, whole genome shotgun sequence	0
+>NZ_JPEK01000022.1 Oenococcus oeni strain OM22 contig22, whole genome shotgun sequence	0
+>NZ_JPKP01000008.1 Pantoea vagans strain MP7 plasmid pPag3, whole genome shotgun sequence	0
+>NZ_JQCO01000001.1 Olsenella uli DSM 7084 Scaffold1, whole genome shotgun sequence	0
+>NZ_JQHF01000003.1 Neisseria mucosa strain C6A contig_3, whole genome shotgun sequence	1.51011855167763e-06
+>NZ_JYGK01000005.1 Streptococcus cristatus strain CR3 TZ85_contig000005, whole genome shotgun sequence	3.99363260133565e-06
+>NZ_JYGS01000004.1 Streptococcus mitis strain SK145 TZ93_contig000004, whole genome shotgun sequence	4.77027044845264e-05
+>NZ_JYKU01000013.1 Streptococcus gallolyticus subsp. gallolyticus strain NTS 31106099 contig001, whole genome shotgun sequence	2.60625378279963e-05
+>NZ_KB233230.1 Providencia alcalifaciens Dmel2 scaffold00001, whole genome shotgun sequence	0
+>NZ_KB898325.1 Prevotella veroralis DSM 19559 = JCM 6290 strain DSM 19559 D464DRAFT_scaffold00001.1, whole genome shotgun sequence	3.94178769628245e-07
+>NZ_KE150239.1 Bilophila wadsworthia 3_1_6 acCls-supercont2.2, whole genome shotgun sequence	0.0055783863601588
+>NZ_KE150480.1 Sutterella wadsworthensis HGA0223 acAqX-supercont1.1, whole genome shotgun sequence	1.79504570110579e-06
+>NZ_KI391970.1 Actinomyces viscosus C505 supercont2.5, whole genome shotgun sequence	3.15427799126046e-05
+>NZ_KI392031.1 Oxalobacter formigenes HOxBLS supercont2.2, whole genome shotgun sequence	5.89434117790573e-06
+>NZ_KI535340.1 Abiotrophia defectiva ATCC 49176 Scfld0, whole genome shotgun sequence	5.13118823025967e-06
+>NZ_KI669409.1 Ruminococcus lactaris CC59_002D addUH-supercont1.3, whole genome shotgun sequence	0.000202721752465314
+>NZ_KI912490.1 Ruminococcus flavefaciens ATCC 19208 L870DRAFT_scaffold00002.2, whole genome shotgun sequence	6.8109828543332e-05
+>NZ_KN214094.1 Eggerthella lenta 1_1_60AFAA supercont1.3, whole genome shotgun sequence	0.000352863616957345
+>NZ_KN549130.1 Rahnella aquatilis strain OV588 EX24DRAFT_scaffold00002.2, whole genome shotgun sequence	0
+>NZ_KZ846567.1 Enterococcus gallinarum strain 298EA1 aekeE-supercont-complete, whole genome shotgun sequence	6.73169056097743e-06
+>NZ_LAZE01000069.1 Lactobacillus rhamnosus strain CNCM-I-3698 CONT_69, whole genome shotgun sequence	0
+>NZ_LBHQ01000001.1 Bifidobacterium adolescentis strain 150 contig001, whole genome shotgun sequence	0.0347345770510475
+>NZ_LCUN01000013.1 Lactobacillus casei strain N87 gLb87_seq13, whole genome shotgun sequence	1.08454210500857e-06
+>NZ_LFLX01000002.1 Pantoea ananatis strain CFH 7-1 CFH1-7chromoscaffold3, whole genome shotgun sequence	0
+>NZ_LPVR01000005.1 Streptococcus equinus strain ICDDRB-NRC-S6 SbS6_5, whole genome shotgun sequence	4.68854633962163e-06
+>NZ_LQFZ01000001.1 Histophilus somni strain 3473HS isolate swab isolate 1 contig_1, whole genome shotgun sequence	4.99293108195779e-08
+>NZ_LQWV01000012.1 Streptococcus gordonii strain CCUG 33482 contig_2, whole genome shotgun sequence	0.000155718368708876
+>NZ_LSLH01000001.1 Gardnerella vaginalis strain N160 scaffold1, whole genome shotgun sequence	0
+>NZ_NBYL01000001.1 Bifidobacterium bifidum strain ICIS-310 NODE_1_length_692544_cov_40.0415_ID_105, whole genome shotgun sequence	0.00138325251268938
+>NZ_NDYG01000012.1 Finegoldia magna strain 09T494 1c, whole genome shotgun sequence	3.21157659645655e-08
+>NZ_NFJJ01000001.1 Anaerotruncus colihominis strain An251 An251_contig_1, whole genome shotgun sequence	0.00106710008594136
+>NZ_NFKW01000001.1 Bacteroides ovatus strain An161 An161_contig_1, whole genome shotgun sequence	0.0513977072147469
+>NZ_NFKX01000002.1 Bacteroides dorei strain An16 An16_contig_2, whole genome shotgun sequence	0.0984073720458099
+>NZ_NHMT01000001.1 Lactobacillus reuteri strain I49 NODE_1_length_2045096_cov_277.453_ID_449, whole genome shotgun sequence	1.89529120756597e-07
+>NZ_NJGJ01000001.1 Fusobacterium nucleatum subsp. animalis strain KCOM 1280 (= ChDC F318) F318_contig000001, whole genome shotgun sequence	1.29127527981667e-07
+>NZ_NKXC01000012.1 Aeromonas veronii strain AMC 25 AMC25_JG872_contig_12, whole genome shotgun sequence	0
+>NZ_NQLF01000001.1 Leuconostoc lactis strain CCK940 contig00001, whole genome shotgun sequence	0
+>NZ_PHKZ01000002.1 Enterococcus faecium strain 13-014 13-014_scaffold_2, whole genome shotgun sequence	0.000272560266418792
+>NZ_PKSQ01000002.1 Brucella melitensis strain CIIMS-NV-5 Conig_2, whole genome shotgun sequence	0
+>NZ_PNGJ01000001.1 Prevotella buccalis strain UMB0536 .16933_8_22.1, whole genome shotgun sequence	0.00100413320067817
+>NZ_PNHP01000001.1 Anaerococcus hydrogenalis strain UMB0204 ERR1203615.17957_1_27.1, whole genome shotgun sequence	0
+>NZ_POXZ01000001.1 Neisseria cinerea strain C2014013859 C2014013859_S42_ctg_581, whole genome shotgun sequence	0
+>NZ_PQVQ01000023.1 Dehalococcoides mccartyi strain GEO NODE_1+_length_562691, whole genome shotgun sequence	0
+>NZ_PRLB01000001.1 Faecalibacterium prausnitzii strain APC942/32-1 NODE_1_length_673522_cov_521.796, whole genome shotgun sequence	0.0152658611520802
+>NZ_QEPM01000001.1 Aggregatibacter segnis strain C2001002503 C2001002503_S3_ctg_594, whole genome shotgun sequence	8.6945055600278e-07
+>NZ_QEQA01000001.1 Aggregatibacter aphrophilus strain C2009017515 C2009017515_S25_ctg_1640, whole genome shotgun sequence	4.21700260300488e-08
+>NZ_QEQB01000001.1 Haemophilus parainfluenzae strain C2009038101 C2009038101_S28_ctg_1097, whole genome shotgun sequence	0.00022770045277477
+>NZ_QEWI01000001.1 Streptococcus parasanguinis strain NU87 NODE_1_length_803072_cov_19.8317, whole genome shotgun sequence	0.00673909962761999
+>NZ_QEWJ01000001.1 Streptococcus oralis strain NU43 NODE_1_length_507871_cov_59.2902, whole genome shotgun sequence	5.34113744178911e-05
+>NZ_QFBE01000002.1 Streptococcus australis strain NU89 NODE_2_length_611167_cov_12.8049, whole genome shotgun sequence	0.000243759185916739
+>NZ_QRHP01000001.1 Roseburia inulinivorans strain AM23-23AC AM23-23AC.Scaf1, whole genome shotgun sequence	0.00123170130385846
+>NZ_QRVL01000001.1 Roseburia hominis strain AF22-12AC AF22-12AC.Scaf1, whole genome shotgun sequence	0.00125561040561296
+>NZ_QSGJ01000001.1 Eubacterium ventriosum strain AM40-7BH AM40-7BH.Scaf1, whole genome shotgun sequence	0.0015146111436149
+>NZ_QVFD01000001.1 Coprococcus catus strain AM28-39 AM28-39.Scaf1, whole genome shotgun sequence	0.000560732865416653
+>NZ_RBXV01000015.1 Clostridium perfringens strain 2016TE7641_69 contig15, whole genome shotgun sequence	0.000996326571271529
+>NZ_RRWU01000001.1 Lactobacillus johnsonii strain CH32 Seq1_Organism:Lactobacillus, whole genome shotgun sequence	1.15436051350376e-06
+>NZ_RSEV01000005.1 Clostridium butyricum strain UBCB 70 Scaffold5, whole genome shotgun sequence	1.83563642719036e-07
+>NZ_RWPM01000008.1 Pseudomonas aeruginosa strain PA-CL529 IPC623_8.1, whole genome shotgun sequence	0
+>NZ_RZUU01000038.1 Klebsiella oxytoca strain 102B7 102B7_S95_R1_contig_38, whole genome shotgun sequence	1.41984706713068e-05
+>NZ_SCHZ01000001.1 Pediococcus acidilactici strain L2-A NODE_1_length_519800_cov_61.968957, whole genome shotgun sequence	0
+>NZ_SDJV01000001.1 Lactococcus lactis strain QH27_1 Scaffold1, whole genome shotgun sequence	2.93995551992041e-06
+>NZ_SHTQ01000002.1 Bifidobacterium longum subsp. longum strain MCC10212 contig0002, whole genome shotgun sequence	0.00391898681386142
+>NZ_SOPD01000001.1 Staphylococcus aureus strain CDC 368-04 tig00000001_arrow, whole genome shotgun sequence	0
+>NZ_UAUA01000018.1 Providencia rustigianii strain NCTC11667, whole genome shotgun sequence	0
+>NZ_UFRR01000003.1 Acinetobacter haemolyticus strain NCTC10305, whole genome shotgun sequence	0
+>NZ_UFRV01000006.1 Acinetobacter johnsonii strain NCTC10308, whole genome shotgun sequence	0
+>NZ_UFRZ01000001.1 Acinetobacter junii strain NCTC10307, whole genome shotgun sequence	0
+>NZ_UGGM01000001.1 Slackia exigua strain NCTC12994, whole genome shotgun sequence	1.15332749470281e-06
+>NZ_UGGQ01000006.1 Mobiluncus mulieris strain NCTC11819, whole genome shotgun sequence	6.10581946448498e-06
+>NZ_UGHS01000004.1 Haemophilus pittmaniae strain NCTC13335, whole genome shotgun sequence	5.21946943395316e-06
+>NZ_UGSZ01000001.1 Peptoniphilus lacrimalis strain NCTC13149, whole genome shotgun sequence	1.75692337581166e-07
+>NZ_UGTE01000001.1 Porphyromonas endodontalis strain NCTC13058, whole genome shotgun sequence	0
+>NZ_UGTL01000002.1 Prevotella disiens strain NCTC11157, whole genome shotgun sequence	6.64480882549588e-06
+>NZ_UGTM01000002.1 Prevotella denticola strain NCTC13067, whole genome shotgun sequence	4.22160354452606e-07
+>NZ_UGTQ01000009.1 Proteus penneri strain NCTC12737, whole genome shotgun sequence	0
+>NZ_UHFA01000002.1 Streptococcus downei MFe28 strain NCTC 11391, whole genome shotgun sequence	8.85782405613473e-07
+>NZ_UHFH01000003.1 Streptococcus dysgalactiae subsp. dysgalactiae strain NCTC13731, whole genome shotgun sequence	3.2438068460914e-05
+>NZ_UHFP01000001.1 Streptococcus infantarius strain NCTC13760, whole genome shotgun sequence	4.58294045592208e-05
+>NZ_UIFY01000002.1 Actinobacillus pleuropneumoniae strain NCTC11407, whole genome shotgun sequence	0
+>NZ_UYXG01000001.1 Bacteroides thetaiotaomicron VPI-5482 isolate Bacteroides thetaiotaomicron 81H8, whole genome shotgun sequence	0.00348364260101957
+>NZ_UYXK01000001.1 Bacteroides stercoris ATCC 43183 isolate Bacteroides stercoris 82C1, whole genome shotgun sequence	0.151301671650057
+>NZ_VFBO01000003.1 Lactobacillus buchneri strain ATCC 4005 ATCC4005_to_NC_018610, whole genome shotgun sequence	0
+>NZ_VFJI01000003.1 Tannerella forsythia strain ATCC 43037 scaffold3, whole genome shotgun sequence	1.64470274207431e-06
+>NZ_VMSA01000001.1 Megasphaera elsdenii strain NCIMB 702410 Ga0187223_11, whole genome shotgun sequence	6.24116385244722e-08
+>NZ_VSVP01000001.1 Lactobacillus salivarius strain FJLHD10M2 Scaffold1, whole genome shotgun sequence	4.41617520811033e-06
+>NZ_VUNE01000001.1 Peptostreptococcus anaerobius strain WCA-SAB-591-4A-A seq1, whole genome shotgun sequence	3.89443442096568e-06
+>NZ_VVJP01000001.1 Akkermansia muciniphila strain BIOML-A21 scaffold1_size504459, whole genome shotgun sequence	0.000243340763520835
+>NZ_VVXK01000001.1 Alistipes shahii strain BIOML-A2 scaffold1_size535910, whole genome shotgun sequence	0.0437831479116916
+>NZ_VVXY01000001.1 Bacteroides caccae strain BIOML-A14 scaffold1_size933965, whole genome shotgun sequence	0.00513047329131501
+>NZ_VYSE01000001.1 Bifidobacterium dentium strain BRDF23 sequence01, whole genome shotgun sequence	0.000396801367944739
+>NZ_WEZS01000001.1 Weissella cibaria strain 10M Scaffold_1, whole genome shotgun sequence	1.5986026778309e-06
+>NZ_WEZU01000003.1 Lactobacillus plantarum strain FUA3584 Scaffold_3, whole genome shotgun sequence	3.3426396213102e-07
+>NZ_WKNF01000002.1 Parabacteroides distasonis strain BIOML-A1 scaffold2_size652226, whole genome shotgun sequence	0.0341751905511496
+>NZ_WNAG01000001.1 Ruminococcus bromii strain BIOML-A3 scaffold1_size569403, whole genome shotgun sequence	0.0099146178184734
+>NZ_WNAJ01000001.1 Roseburia intestinalis strain BIOML-A1 scaffold1_size504264, whole genome shotgun sequence	0.000804565145342036
+>NZ_WWFC01000001.1 Lactobacillus iners strain Indica1 scf7180000000004, whole genome shotgun sequence	2.99575864917468e-08
+>NZ_WWSH01000001.1 Dorea longicatena strain BIOML-A1 scaffold1_size502651, whole genome shotgun sequence	0.00576804070958478
